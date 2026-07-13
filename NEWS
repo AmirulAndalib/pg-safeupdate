@@ -1,5 +1,9 @@
 = Release History
 
+== 1.7: July 13, 2026
+
+ - Support PostgreSQL 19
+
 == 1.6: June 25, 2026
 
  - Do not block pg_upgrade
